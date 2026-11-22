@@ -1,0 +1,8 @@
+{
+  "name": "rimba-nusantara",
+  "version": "1.0.0",
+  "description": "Game penjelajah rimba multiplayer dengan chat",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" }
+}
